@@ -1,2 +1,6 @@
-scoop
-marimo
+scoop/
+
+marimo/
+
+*.log
+yasb/yasb.log
