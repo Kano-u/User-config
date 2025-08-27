@@ -49,7 +49,6 @@ bars:
         # "systray",
         "brightness",
         "traffic",
-        "cpu",
         "media",
         "weather",
         "microphone",
